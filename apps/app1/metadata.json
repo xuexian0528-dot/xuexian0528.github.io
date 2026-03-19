@@ -1,0 +1,5 @@
+{
+  "name": "智能报销助手 (SmartReimburse)",
+  "description": "自动提取微信消费记录，匹配电子发票，一键生成报销表格。支持AI智能识别与自动对账。",
+  "requestFramePermissions": []
+}
